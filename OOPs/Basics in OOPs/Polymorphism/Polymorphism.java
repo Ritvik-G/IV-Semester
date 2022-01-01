@@ -38,6 +38,6 @@ class Cat extends Animal{
 // Child SubClass 3
 class Dog extends Animal{
 	void intro(){
-		System.out.println("Hi! I am Spike the bulldog");
+		System.out.println("Hi! I am Spike the bulldog.");
 	}
 }
