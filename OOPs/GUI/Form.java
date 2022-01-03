@@ -35,5 +35,6 @@ class Form{
 		
 		// Changing background color
 		f.setBackground(Color.cyan);
+		
 	}
 }
