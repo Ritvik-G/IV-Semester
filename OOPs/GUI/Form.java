@@ -5,7 +5,7 @@ import java.awt.*;
 class Form{
 	public static void main(String [] args){
 	
-		// Declfrontendaration of Frame called Login Form 
+		// Declaration of Frame called Login Form 
 		Frame f = new Frame("Login Form");
 		f.setSize(500,500);
 		f.setVisible(true);
