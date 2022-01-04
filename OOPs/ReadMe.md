@@ -3,7 +3,7 @@ To Run any java file, follow the following steps:-
   JAVA DOWLOAD AND INSTALLATION
   1. Download and Install Java - https://www.java.com/download/
   2. For the above step to be followed, you can view the documentation provided by Java - https://www.java.com/en/download/help/download_options.html
-  3. Sources for learning Java can be found at - https://www.javatpoint.com/java-tutorial
+  3. Source for learning Java can be found at - https://www.javatpoint.com/java-tutorial
   
   JAVA COMPILING
   1. Go to the directory where your current _ProgramName_.java is present.
