@@ -1,3 +1,17 @@
-Unix File System
+UNIX File System
 
-  The file system is a method of organising large amounts of daya. Here, file is the smallest unit in which info is stored. Files are further organised into directories. These directories form a tree like structure called file system. The parent directory of file system is called root & is representd by '/'.
+  The file system is a method of organising large amounts of daya. Here, file is the smallest unit in which info is stored. 
+  Files are further organised into directories. These directories form a tree like structure called file system. 
+  The parent directory of file system is called root & is representd by '/'.
+ 
+1. / -> root of the file system
+2. /boot -> had files necessary for booting
+3. /bin -> contains binary files
+4. /dev -> contains files of peripheral devices
+5. /home -> home directories of users
+6. /root -> directory for superuser root
+7. /tmp -> contains temporary files
+8. /proc -> virtual file system for meta data of process
+9. /lib -> contains system libraries
+
+Classification of UNIX file system
