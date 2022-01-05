@@ -16,7 +16,11 @@ Type the following instruction:
 Open the terminal using ctrl + alt + t command.
 Type the following instructions:
 
-    bash chmod +x filename.sh ./filename.sh
+    bash chmod +x filename.sh 
+    
+and then,
+
+    ./filename.sh
     
 In the above steps, bash is used to clear any variables that were already initiated earlier. chmod is going to make your file executible and ./ will execute your file.
 
