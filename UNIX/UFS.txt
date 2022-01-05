@@ -1,2 +1,3 @@
 Unix File System
 
+  The file system is a method of organising large amounts of daya. Here, file is the smallest unit in which info is stored. Files are further organised into directories. These directories form a tree like structure called file system. The parent directory of file system is called root & is representd by '/'.
