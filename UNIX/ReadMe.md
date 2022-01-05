@@ -2,7 +2,9 @@
 
 To run any .sh extension file, follow the following steps :-
 
-DISCLAIMER The given programs were executed on Ubuntu Linux OS. Try using the same or anything similar to achieve the output required.
+DISCLAIMER 
+
+The given programs were executed on Ubuntu Linux OS. Try using the same or anything similar to achieve the output required.
 
 
 
