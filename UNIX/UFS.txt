@@ -15,3 +15,10 @@ UNIX File System
 9. /lib -> contains system libraries
 
 Classification of UNIX file system
+
+1. Ordinary Files - General files that contain large data
+2. Special files - I/O files
+3. Directories - Contain both ordinary & special files
+4. Pipes - To hold data until used by other processes
+5. Socket - Similar to pipes but 2-way communication possible
+6. Symbolic links - Used to create pointers to existing file. A file can be accessed either by pointer or name. If a file doesn't exist -> Dangling pointer
