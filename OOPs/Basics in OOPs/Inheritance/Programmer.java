@@ -24,12 +24,15 @@ class Programmer extends Person{
 		System.out.println("The name of the programmer is : "+p.name);
 		System.out.println("The age of the programmer is : "+p.age);
 		System.out.println("The rank of the programmer is : "+p.rank);
+		
 	}
 }
 
 
 // Declaration of class called Person
 class Person{
+	
 	String name;
 	int age;
+	
 }
